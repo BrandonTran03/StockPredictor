@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ArrowUpDown, Info, Download } from 'lucide-react';
+import { ArrowUpDown } from 'lucide-react';
 import { useNavigate } from 'react-router-dom'; // Import useNavigate
 import axios from 'axios';
 

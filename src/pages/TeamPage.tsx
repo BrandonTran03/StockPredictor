@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Mail } from 'lucide-react';
 
 function TeamPage() {
