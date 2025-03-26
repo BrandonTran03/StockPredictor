@@ -1,2 +1,2 @@
 # Stock Predictor
-Brandon and Leo
+Developed by @BrandonTran03 and @LeoMoodley
